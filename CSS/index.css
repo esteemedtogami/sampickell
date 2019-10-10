@@ -1,0 +1,15 @@
+/*
+    Last Updated October 9, 2019
+    Copyright (C) 2019 Sam Pickell
+    Personal Website - Home page
+*/
+
+body{
+    #background-image: linear-gradient(red, #831600);
+    background-image: linear-gradient(black, #831600);
+  	background-repeat: repeat-x;
+    #background-color: #831600;
+    #min-height: 2000px;
+    min-height: 100vh;
+    #min-width: 800px;
+}
